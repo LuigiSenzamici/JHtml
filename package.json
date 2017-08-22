@@ -1,0 +1,19 @@
+{
+  "name": "jhtml",
+  "version": "1.0.0",
+  "description": "javascritp html element generator",
+  "main": "dist/JHtml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiSenzamici/JHtml.git"
+  },
+  "author": "Luigi Senzamici (luigisenzamici@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuigiSenzamici/JHtml/issues"
+  },
+  "homepage": "https://github.com/LuigiSenzamici/JHtml#readme"
+}
